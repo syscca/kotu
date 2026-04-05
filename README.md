@@ -33,7 +33,7 @@
 
 1. **克隆仓库** (或直接下载源代码):
    ```bash
-   git clone https://github.com/your-username/ai-background-remover.git
+   git clone https://github.com/syscca/kotu.git
    cd ai-background-remover
    ```
 
