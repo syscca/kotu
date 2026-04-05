@@ -2,7 +2,7 @@
 
 一款基于 AI 技术的桌面扣图软件，专为 Windows 11 用户设计，提供简洁直观的中文界面。支持多种 AI 模型切换、边缘 Alpha 蒙版调节，并针对 16:9 宽屏图片进行了界面优化。
 
-![AI 扣图预览](https://via.placeholder.com/1200x700.png?text=AI+Background+Remover+GUI)
+![AI 扣图预览](./kotu.png)
 
 ## ✨ 主要功能
 
