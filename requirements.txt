@@ -1,0 +1,5 @@
+rembg
+customtkinter
+Pillow
+onnxruntime
+opencv-python-headless
