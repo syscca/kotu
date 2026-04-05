@@ -34,7 +34,7 @@
 1. **克隆仓库** (或直接下载源代码):
    ```bash
    git clone https://github.com/syscca/kotu.git
-   cd ai-background-remover
+   cd kotu
    ```
 
 2. **安装依赖** (建议使用虚拟环境):
